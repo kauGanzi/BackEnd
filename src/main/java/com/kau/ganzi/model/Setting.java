@@ -1,4 +1,4 @@
-package com.kau.model;
+package com.kau.ganzi.model;
 
 public class Setting {
     private String speaker = "robot";

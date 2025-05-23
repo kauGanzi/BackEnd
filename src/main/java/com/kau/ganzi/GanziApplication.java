@@ -1,4 +1,4 @@
-package com.kau.Ganzi;
+package com.kau.ganzi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

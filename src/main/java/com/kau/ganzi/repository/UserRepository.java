@@ -1,12 +1,11 @@
-package com.kau.repository;
+package com.kau.ganzi.repository;
 
-import com.kau.model.User;
+import com.kau.ganzi.model.User;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-
 @Component
 public class UserRepository {
     private final List<User> userList = new ArrayList<>();
