@@ -12,7 +12,7 @@ public class Message {
         return text;
     }
 
-    public void setText() {
+    public void setText(String text) {
         this.text = text;
     }
 }

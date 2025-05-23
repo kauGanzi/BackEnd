@@ -1,8 +1,8 @@
 package com.kau.model;
 
 public class Setting {
-    private String speaker;
-    private double speed;
+    private String speaker = "robot";
+    private double speed = 1.0;
 
     public Setting() { }
     public Setting(String speaker, double speed) {
